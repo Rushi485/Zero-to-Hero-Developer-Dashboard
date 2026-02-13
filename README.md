@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ik.imagekit.io/35j8ym6cy/imeges/ChatGPT%20Image%20Feb%2013,%202026,%2004_43_27%20PM.png" />
+<img width="1200" height="475" alt="GHBanner" src="https://ik.imagekit.io/35j8ym6cy/imeges/Gemini_Generated_Image_ac98b7ac98b7ac98.png" />
 </div>
 
 # Run and deploy your AI Studio app
